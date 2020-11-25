@@ -20,7 +20,7 @@
     "omnipay/tests": "^3",
     "squizlabs/php_codesniffer": "^3",
     "phpro/grumphp": "^0.18"
-  }
-  ,
+  },
+  "minimum-stability": "dev-master",
   "prefer-stable": true
 }
